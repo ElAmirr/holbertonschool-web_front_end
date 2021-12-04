@@ -1,0 +1,377 @@
+<img class="masthead-avatar mb-5" src="img/avataaars.svg" alt="avatar">
+​
+accessKey: ""
+​
+accessKeyLabel: ""
+​
+align: ""
+​
+alt: "avatar"
+​
+assignedSlot: null
+​
+attributes: NamedNodeMap(3) [ class="masthead-avatar mb-5", src="img/avataaars.svg", alt="avatar" ]
+​
+baseURI: "https://dev-tools.hbtn.info/"
+​
+border: ""
+​
+childElementCount: 0
+​
+childNodes: NodeList []
+​
+children: HTMLCollection { length: 0 }
+​
+classList: DOMTokenList [ "masthead-avatar", "mb-5" ]
+​
+className: "masthead-avatar mb-5"
+​
+clientHeight: 255
+​
+clientLeft: 0
+​
+clientTop: 0
+​
+clientWidth: 240
+​
+complete: true
+​
+contentEditable: "inherit"
+​
+crossOrigin: null
+​
+currentSrc: "https://dev-tools.hbtn.info/img/avataaars.svg"
+​
+dataset: DOMStringMap(0)
+​
+decoding: "auto"
+​
+dir: ""
+​
+draggable: true
+​
+enterKeyHint: ""
+​
+firstChild: null
+​
+firstElementChild: null
+​
+height: 255
+​
+hidden: false
+​
+hspace: 0
+​
+id: ""
+​
+innerHTML: ""
+​
+innerText: ""
+​
+isConnected: true
+​
+isContentEditable: false
+​
+isMap: false
+​
+lang: ""
+​
+lastChild: null
+​
+lastElementChild: null
+​
+loading: "eager"
+​
+localName: "img"
+​
+longDesc: ""
+​
+lowsrc: ""
+​
+name: ""
+​
+namespaceURI: "http://www.w3.org/1999/xhtml"
+​
+naturalHeight: 0
+​
+naturalWidth: 0
+​
+nextElementSibling: <h1 class="masthead-heading text-uppercase mb-0">
+​
+nextSibling: #text "
+
+      "
+​
+nodeName: "IMG"
+​
+nodeType: 1
+​
+nodeValue: null
+​
+nonce: ""
+​
+offsetHeight: 255
+​
+offsetLeft: 304
+​
+offsetParent: <body id="page-top">
+​
+offsetTop: 170
+​
+offsetWidth: 240
+​
+onabort: null
+​
+onanimationcancel: null
+​
+onanimationend: null
+​
+onanimationiteration: null
+​
+onanimationstart: null
+​
+onauxclick: null
+​
+onbeforeinput: null
+​
+onblur: null
+​
+oncanplay: null
+​
+oncanplaythrough: null
+​
+onchange: null
+​
+onclick: null
+​
+onclose: null
+​
+oncontextmenu: null
+​
+oncopy: null
+​
+oncuechange: null
+​
+oncut: null
+​
+ondblclick: null
+​
+ondrag: null
+​
+ondragend: null
+​
+ondragenter: null
+​
+ondragexit: null
+​
+ondragleave: null
+​
+ondragover: null
+​
+ondragstart: null
+​
+ondrop: null
+​
+ondurationchange: null
+​
+onemptied: null
+​
+onended: null
+​
+onerror: null
+​
+onfocus: null
+​
+onformdata: null
+​
+onfullscreenchange: null
+​
+onfullscreenerror: null
+​
+ongotpointercapture: null
+​
+oninput: null
+​
+oninvalid: null
+​
+onkeydown: null
+​
+onkeypress: null
+​
+onkeyup: null
+​
+onload: null
+​
+onloadeddata: null
+​
+onloadedmetadata: null
+​
+onloadend: null
+​
+onloadstart: null
+​
+onlostpointercapture: null
+​
+onmousedown: null
+​
+onmouseenter: null
+​
+onmouseleave: null
+​
+onmousemove: null
+​
+onmouseout: null
+​
+onmouseover: null
+​
+onmouseup: null
+​
+onmozfullscreenchange: null
+​
+onmozfullscreenerror: null
+​
+onpaste: null
+​
+onpause: null
+​
+onplay: null
+​
+onplaying: null
+​
+onpointercancel: null
+​
+onpointerdown: null
+​
+onpointerenter: null
+​
+onpointerleave: null
+​
+onpointermove: null
+​
+onpointerout: null
+​
+onpointerover: null
+​
+onpointerup: null
+​
+onprogress: null
+​
+onratechange: null
+​
+onreset: null
+​
+onresize: null
+​
+onscroll: null
+​
+onsecuritypolicyviolation: null
+​
+onseeked: null
+​
+onseeking: null
+​
+onselect: null
+​
+onselectionchange: null
+​
+onselectstart: null
+​
+onslotchange: null
+​
+onstalled: null
+​
+onsubmit: null
+​
+onsuspend: null
+​
+ontimeupdate: null
+​
+ontoggle: null
+​
+ontransitioncancel: null
+​
+ontransitionend: null
+​
+ontransitionrun: null
+​
+ontransitionstart: null
+​
+onvolumechange: null
+​
+onwaiting: null
+​
+onwebkitanimationend: null
+​
+onwebkitanimationiteration: null
+​
+onwebkitanimationstart: null
+​
+onwebkittransitionend: null
+​
+onwheel: null
+​
+outerHTML: "<img class=\"masthead-avatar mb-5\" src=\"img/avataaars.svg\" alt=\"avatar\">"
+​
+ownerDocument: HTMLDocument https://dev-tools.hbtn.info/
+​
+parentElement: <div class="container d-flex align-items-center flex-column">
+​
+parentNode: <div class="container d-flex align-items-center flex-column">
+​
+part: DOMTokenList []
+​
+prefix: null
+​
+previousElementSibling: null
+​
+previousSibling: #text "
+      "
+​
+referrerPolicy: ""
+​
+scrollHeight: 255
+​
+scrollLeft: 0
+​
+scrollLeftMax: 0
+​
+scrollTop: 0
+​
+scrollTopMax: 0
+​
+scrollWidth: 240
+​
+shadowRoot: null
+​
+sizes: ""
+​
+slot: ""
+​
+spellcheck: false
+​
+src: "https://dev-tools.hbtn.info/img/avataaars.svg"
+​
+srcset: ""
+​
+style: CSS2Properties(0)
+​
+tabIndex: -1
+​
+tagName: "IMG"
+​
+textContent: ""
+​
+title: ""
+​
+useMap: ""
+​
+vspace: 0
+​
+width: 240
+​
+x: 304
+​
+y: 170
+​
+<prototype>: HTMLImageElementPrototype { decode: decode(), alt: Getter & Setter, src: Getter & Setter, … }
+
