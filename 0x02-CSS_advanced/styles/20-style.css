@@ -212,8 +212,7 @@ ul .row {
     text-align: right;    
 }
 
-.row::after {
-    content: none;
+.row:empty {
     display: table;
     float: none;
 }
