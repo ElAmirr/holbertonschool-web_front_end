@@ -39,7 +39,7 @@ h5 {
 }
 
 h6 {
-
+    font-family: var(--font-family-title);
 }
 
 a {
