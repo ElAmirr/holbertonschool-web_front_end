@@ -25,16 +25,9 @@
     --section-title-color: var(--color-black);
 }
 
-/* Grouping content
-   ========================================================================== */
-
-/**
- * 1. Add the correct box sizing in Firefox.
- */
-
-hr {
-    box-sizing: content-box; /* 1 */
-}  
+* {
+    box-sizing: border-box;
+}
 
 html {
     scroll-behavior: smooth;
