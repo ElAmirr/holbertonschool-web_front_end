@@ -186,6 +186,7 @@ a:active {
 
 ul .row {
     margin: 0;
+    padding: unset;
     list-style: none;
 }
 
