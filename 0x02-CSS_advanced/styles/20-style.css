@@ -211,3 +211,9 @@ ul .row {
 .footer ul {
     text-align: right;    
 }
+
+.row {
+    content: none;
+    display: table;
+    float: none;
+}
