@@ -233,6 +233,6 @@ ul .row {
     display: block;
 }
 
-svg.social-link>* {
+.social-link svg:nth-child(*) {
     color: var(--text-color);
 }
