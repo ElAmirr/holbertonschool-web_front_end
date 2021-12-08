@@ -37,6 +37,13 @@ html {
     font-size: 62.5%;
 }
 
+/* Sections
+   ========================================================================== */
+
+/**
+ * Remove the margin in all browsers.
+ */
+
 body {
     color: var(--tex-color);
     font-family: var(--font-family-base);
@@ -44,6 +51,11 @@ body {
     font-weight: var(--font-weight-regular);
     line-height: var(--line-height-base);
 }
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
 
 h1 {
     font-family: var(--font-family-title);
@@ -74,6 +86,13 @@ h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
 }
+
+/* Text-level semantics
+   ========================================================================== */
+
+/**
+ * Remove the gray background on active links in IE 10.
+ */
 
 a:link {
     color: var(--tex-color);
