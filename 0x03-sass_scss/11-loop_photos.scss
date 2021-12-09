@@ -2,14 +2,15 @@
 $list-names: julien, john, sam, damian;
 @each $name in $list-names {
     .photo-#{$name} {
-        background: image-url("photos/julien.jpg") no-repeat; }
-      
-      .photo-#{$name} {
-        background: image-url("photos/john.jpg") no-repeat; }
-      
-      .photo-#{$name} {
-        background: image-url("photos/sam.jpg") no-repeat; }
-      
-      .photo-#{$name} {
-        background: image-url("photos/damian.jpg") no-repeat; }
+        background: image-url("photos/julien.jpg") no-repeat; 
+    }  
+    .photo-#{$name} {
+        background: image-url("photos/john.jpg") no-repeat; 
+    }  
+    .photo-#{$name} {
+        background: image-url("photos/sam.jpg") no-repeat; 
+    }
+    .photo-#{$name} {
+        background: image-url("photos/damian.jpg") no-repeat; 
+    }
 }
