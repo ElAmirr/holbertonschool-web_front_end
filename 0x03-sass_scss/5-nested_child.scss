@@ -3,7 +3,7 @@ $primary-color: #3D3D3D;
 $secondary-color: #FF0000;
 body {
     color: $primary-color;
-    &:first-child(.red) {
+    &.red:first-child() {
         color: $secondary-color;
     }
 }
