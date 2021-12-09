@@ -187,7 +187,7 @@ a:active {
 ul .row {
     margin: 0;
     padding: 0;
-    text-decoration: none;
+    font-style: none;
 }
 
 .col-1-3 {
