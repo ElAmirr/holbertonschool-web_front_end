@@ -1,4 +1,5 @@
 /** Hello world **/
+$content: "Hello world";
 html {
-    content: "Hello world";
+    @debug $content;
 }
