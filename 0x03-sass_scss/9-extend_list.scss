@@ -3,10 +3,12 @@ $primary-color: #00FF00;
 $secondary-color: #FF0000;
 .info {
     font-size: 12px;
-    .success {
-        color: $primary-color;
-    }
-    .warning {
-        color: $secondary-color;
-    }
+}
+.success {
+    color: $primary-color;
+    @extend .info;
+}
+.warning {
+    color: $secondary-color;
+    @extend .info;
 }
