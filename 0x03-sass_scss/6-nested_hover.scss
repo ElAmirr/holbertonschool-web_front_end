@@ -1,0 +1,9 @@
+/** Color **/
+$btn-primary-color: #FF0000;
+$btn-secondary-color: #00FF00;
+button {
+    color: $btn-primary-color;
+    &:hover {
+        color: $btn-secondary-color;
+    }
+}
