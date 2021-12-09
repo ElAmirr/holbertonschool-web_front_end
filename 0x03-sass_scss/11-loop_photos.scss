@@ -1,4 +1,8 @@
 /** Each **/
+@import url(photos/julien.jpg);
+@import url(photos/john.jpg);
+@import url(photos/sam.jpg);
+@import url(photos/damian.jpg);
 $list-names: julien john sam damian;
 @each $name in $list-names {
     .photo-#{$name} {
