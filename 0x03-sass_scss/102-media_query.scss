@@ -5,12 +5,10 @@ h1 {
     font-size: 20px;
         @each $width, $size in $max-width {
             @media screen and (max-width: $width) {
-                h1 {
-                    font-size: $size; };
-                    @if $max-width < 320px {
-                        .small {
-                            color: $text-color;
-                        }
+                font-size: $size; };
+                @if $max-width < 320px {
+                    .small {
+                        color: $text-color;
                     }
                 }
         }    
