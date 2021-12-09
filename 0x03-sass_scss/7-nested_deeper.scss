@@ -1,10 +1,11 @@
 /** deeper **/
+$size: 14px;
 body {
-    font-size: 14px;
+    font-size: $size;
     h1 {
-        font-size: 16px;
+        font-size: $size + 2px;
         .smaller {
-            font-size: 12px;
+            font-size: $size - 2px;
         }
     }
 }
