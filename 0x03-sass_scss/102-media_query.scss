@@ -10,7 +10,9 @@ h1 {
                 h1 {
                     font-size: $size; };
                     @if $max-width < 320px {
-                        color: $text-color;
+                        .small {
+                            color: $text-color;
+                        }
                     }
                 }
         }    
