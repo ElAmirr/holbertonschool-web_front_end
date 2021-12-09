@@ -2,7 +2,7 @@
 $text-color: #1D1D1D;
 $max-width: 960px 640px 320px;
 $size-list: 18px, 16px, 14px;
-.h1 {
+h1 {
     font-size: 20px;
     @for $var from 1 to 3 {
         @each $width, $size in $max-width, $size-list {
