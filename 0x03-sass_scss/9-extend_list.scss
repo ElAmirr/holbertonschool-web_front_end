@@ -1,0 +1,12 @@
+/** Extend **/
+$primary-color: #00FF00;
+$secondary-color: #FF0000;
+.info {
+    font-size: 12px;
+    .success {
+        color: $primary-color;
+    }
+    .warning {
+        color: $secondary-color;
+    }
+}
