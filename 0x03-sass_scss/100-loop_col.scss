@@ -1,7 +1,6 @@
 /** Advances **/
 @for $i from 1 to 4 {
-    $width: 100% / $i;
     .col-#{$i} {
-        width: $width;
+        width: 100% / $i;
     }
 }
