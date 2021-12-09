@@ -1,0 +1,8 @@
+/** Advanced **/
+$max-width: 320px;
+h1 {
+    font-size: 20px; 
+    @media screen and (max-width: $max-width){
+        font-size: 14px;
+    }
+}
