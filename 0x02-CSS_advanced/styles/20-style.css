@@ -213,7 +213,7 @@ ul .row {
 }
 
 .row::after {
-    content: " ";
+    content: "";
     display: table;
-    float: unset;
+    clear: both;
 }
