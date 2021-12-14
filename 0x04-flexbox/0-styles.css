@@ -186,7 +186,7 @@ padding: 0;
 list-style: none;
 display: flex;
 justify-content: space-between;
-gap: 1rem;
+gap: 0.5rem;
 }
 
 .col-1-3 {
