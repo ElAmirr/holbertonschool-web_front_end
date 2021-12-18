@@ -1,37 +1,48 @@
 body {
     display: flex;
     justify-content: center;
+    font-size: 50px;
+}
+
+.box1, .box2, .box3, .box4, .box5 {
+    width: 3.5em;
+    height: 2em;
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
 .box1 {
-    background: rosybrown;
+    background: rgb(29, 203, 106);
+    font-size: 1em;
 }
 
 .box2 {
-    background: royalblue;
+    background: rgb(45, 152, 223);
     flex-grow: 2;
+    font-size: 2em;
 }
 
 .box3 {
-    background: saddlebrown;
+    background: rgb(88, 99, 112);
     flex-grow: 3;
+    font-size: 3em;
 }
 
 .box4 {
-    background: seagreen;
+    background: rgb(159, 87, 187);
     flex-grow: 2;
+    font-size: 2em;
 }
 
 .box5 {
-    background: springgreen;
+    background: rgb(229, 126, 10);
+    font-size: 1em;
 }
 
 .container {
-    height: 50vh;
-    width: 50vh;
     display: flex;
-    border: 2px solid red;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
+    flex-shrink: 2;
 }
