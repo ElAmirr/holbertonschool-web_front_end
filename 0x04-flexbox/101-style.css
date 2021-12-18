@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1 {
+    background: rosybrown;
+}
+
+.box2 {
+    background: royalblue;
+    flex-grow: 2;
+}
+
+.box3 {
+    background: saddlebrown;
+    flex-grow: 3;
+}
+
+.box4 {
+    background: seagreen;
+    flex-grow: 2;
+}
+
+.box5 {
+    background: springgreen;
+}
+
+.container {
+    height: 50vh;
+    width: 50vh;
+    display: flex;
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+}
