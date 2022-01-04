@@ -230,6 +230,13 @@ nav img {
     color: #FFFFFF;
 }
 
+.animation:hover {
+    cursor: pointer;
+    transition: all 1.2s ease;
+    transform: scale(1.5) translateY(-20px);
+}
+
+
 @media only screen and (min-width: 481px ) {
     .nav-line {
         display: none;
