@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home {
+    height: 100vh;
+    border: 2px solid red;
+    background-image: url(./images/headphones_hero_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-list {
+    display: none;
+}
+
+.nav-line {
+    position: absolute;
+    top: 38px;
+    left: 21px;
+}
+
+nav img {
+    position: absolute;
+    top: 29px;
+    text-align: center;
+}
+
+.main-home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-title {
+    margin: 268px 9px 5px 9px;
+    border: 2px solid yellow;
+    text-align: center;
+}
+
+.home-title h1 {
+    font-size: 32px;
+}
+
+.home-second-title {
+    margin-right: 48px;
+    margin-left: 48px;
+    text-align: center;
+    border: 2px solid yellow;
+}
+
+.btn {
+    height: 44px;
+    width: 162px;
+    border-radius: 22px;
+    background: #FF6565;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.btn-content {
+    font-size: 14px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.home-description {
+    border: 2px solid green;
+    margin: 65px 20px 106px 20px;
+    line-height: 26px;
+    text-align: center;
+}
+
+@media only screen and (min-width: 481px ) {
+    .nav-line {
+        display: none;
+    }
+
+    .nav-list {
+        display: block;    
+    }
+
+    nav img {
+        position: unset;
+        margin-top: 29px;
+        margin-left: 71px;
+    }
+
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .nav-list ul {
+        display: flex;
+        justify-content: space-between;
+        list-style: none;
+        width: 350px;
+        margin-top: 37px;
+        margin-right: 69px;
+    }
+
+    .nav-list ul a {
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+    .home-description p {
+        width: 760px;
+    }
+}
